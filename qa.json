@@ -1,0 +1,39 @@
+{
+    "qna": {
+      "body": [
+        {
+          "question": "Apa yang harus dilakukan jika lupa absen?",
+          "answer": "Jika lupa absen, segera laporkan ke HR atau atasan langsung dengan bukti pendukung agar data absensi dapat diperbarui."
+        },
+        {
+          "question": "Apa yang dimaksud dengan inhouse training?",
+          "answer": "Merupakan pelatihan yang dilaksanakan pada lokasi perusahaan tersebut."
+        },
+        {
+          "question": "Apa yang perlu dilakukan untuk daftar training?",
+          "answer": "User dapat menghubungi nomor 08997597746 atau dapat datang langsung pada Solusi."
+        },
+        {
+          "question": "Kenapa saya tidak bisa login?",
+          "answer": "Ada beberapa hal seperti:\n1. Server ada kendala/maintenance\n2. Internet Bapak/Ibu ada kendala."
+        },
+        {
+          "question": "Jika saya sakit harus apa?",
+          "answer": "Izin kepada atasan dan memberikan surat sakit dokter ketika sudah sembuh."
+        },
+        {
+          "question": "Bagaimana cara melakukan absensi?",
+          "answer": "Absensi dapat dilakukan melalui aplikasi/portal absensi resmi perusahaan. Silakan login menggunakan akun Anda lalu pilih menu Absensi untuk check-in atau check-out."
+        },
+        {
+          "question": "Kapan Solusi buka?",
+          "answer": "Buka setiap hari Senin sampai Jumat jam 8–17 sore."
+        },
+        {
+          "question": "What is Solusi?",
+          "answer": "Company who gives about solution."
+        }
+      ]
+    }
+  }
+
